@@ -4,3 +4,9 @@ strength:It can simple to use and it cost effective and time saving
 weakness: They have to remember their date and time
 opportunity:Even one date of day we can access all message
 Thread:It can be deleted and modified
+what : To make the personal diary in a easy way
+when : It can be access it any time
+where: IT can be record any where 
+who: Every user can access it
+why: Digitally store data and save time and cost effective
+how:It can be installed in applications
