@@ -33,7 +33,7 @@ int  addrecord( )
 
     printf("\n\n\tENTER DATE OF YOUR RECORD:[yyyy-mm-dd]:");
 
-    fflush(stdin);
+    //fflush(stdin);
      //char file1[20];
   //  fgets(filename, 15, stdin);
   scanf("%s",filename);
@@ -68,7 +68,7 @@ int  addrecord( )
 
         choice=0;
 
-        fflush(stdin);
+       // fflush(stdin);
 
         printf ( "\n\tENTER TIME:[hh:mm]:");
 
@@ -100,23 +100,23 @@ int  addrecord( )
 
             printf("\tENTER NAME:");
 
-            fflush(stdin);
+           // fflush(stdin);
 
             scanf("%s",e.name);
 
-            fflush(stdin);
+           // fflush(stdin);
 
             printf("\tENTER PLACE:");
 
             scanf("%s",e.place);
 
-            fflush(stdin);
+           // fflush(stdin);
 
             printf("\tENTER DURATION:");
 
           scanf("%s",e.duration);
 
-            fflush(stdin);
+           /// fflush(stdin);
 
             printf("\tNOTE:");
 
@@ -130,7 +130,7 @@ int  addrecord( )
 
         printf ( "\n\tADD ANOTHER RECORD...(Y/N) " ) ;
 
-        fflush (stdin) ;
+       // fflush (stdin) ;
 
         another = getchar( ) ;
 

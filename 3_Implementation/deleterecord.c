@@ -64,7 +64,7 @@ int  deleterecord( )
 
                 printf("\n\tENTER THE DATE OF RECORD TO BE DELETED:[yyyy-mm-dd]:");
 
-                fflush(stdin);
+                ////fflush(stdin);
 
                 scanf("%s",filename);
 
@@ -96,7 +96,7 @@ int  deleterecord( )
 
                 printf("\n\tENTER THE DATE OF RECORD:[yyyy-mm-dd]:");
 
-                fflush(stdin);
+                ////fflush(stdin);
 
                 scanf("%s",filename);
 
@@ -134,7 +134,7 @@ int  deleterecord( )
 
                 printf("\n\tENTER THE TIME OF RECORD TO BE DELETED:[hh:mm]:");
 
-                fflush(stdin);
+                ////fflush(stdin);
 
                 scanf("%s",time);
 
@@ -173,7 +173,7 @@ int  deleterecord( )
 
         printf("\n\tDO YOU LIKE TO DELETE ANOTHER RECORD.(Y/N):");
 
-        fflush(stdin);
+        ////fflush(stdin);
 
         scanf("%c",&another);
 

@@ -44,7 +44,7 @@ int viewrecord( )
 
         printf("\n\tENTER THE DATE OF RECORD TO BE VIEWED:[yyyy-mm-dd]:");
 
-        fflush(stdin);
+        //fflush(stdin);
 
         scanf("%s",filename);
 
@@ -108,7 +108,7 @@ int viewrecord( )
 
         case 2:
 
-            fflush(stdin);
+            //fflush(stdin);
 
             printf("\nENTER TIME:[hh:mm]:");
 
@@ -149,7 +149,7 @@ int viewrecord( )
 
         printf("\n\nWOULD YOU LIKE TO CONTINUE VIEWING...(Y/N):");
 
-        fflush(stdin);
+        //fflush(stdin);
 
         scanf("%c",&choice);
 

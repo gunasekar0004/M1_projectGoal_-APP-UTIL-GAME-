@@ -43,7 +43,7 @@ int editrecord()
     {
         printf("\n\tENTER THE DATE OF RECORD TO BE EDITED:[yyyy-mm-dd]:");
 
-        fflush(stdin);
+        //fflush(stdin);
 
         scanf("%s",filename);
 
@@ -109,11 +109,11 @@ int editrecord()
 
                     printf("\n\tENTER YOUR CHOICE:");
 
-                    fflush(stdin);
+                    //fflush(stdin);
 
                     scanf("%d",&num);
 
-                    fflush(stdin);
+                    //fflush(stdin);
 
                     switch(num)
 

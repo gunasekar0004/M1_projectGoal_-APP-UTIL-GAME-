@@ -1,0 +1,41 @@
+screenshots
+sample inuput and output
+MAIN MENU:
+
+        ADD RECORD      [1]
+        VIEW RECORD     [2]
+        EDIT RECORD     [3]
+        DELETE RECORD   [4]
+        EXIT            [5]
+
+        ENTER YOUR CHOICE:2 ENTER THE DATE OF RECORD TO BE VIEWED:[yyyy-mm-dd]:2021-10-12
+
+
+        HOW WOULD YOU LIKE TO VIEW:
+
+        1.WHOLE RECORD OF THE DAY.
+        2.RECORD OF FIX TIME.
+                ENTER YOUR CHOICE:2
+
+ENTER TIME:[hh:mm]:12:30
+
+YOUR RECORD IS:
+TIME: 12:30
+MEETING WITH: gd
+MEETING AT: cd
+DUARATION: 12
+NOTE: hi
+
+WOULD YOU LIKE TO CONTINUE VIEWING...(Y/N):
+
+        PERSONAL NOTES
+
+                MAIN MENU:
+
+        ADD RECORD      [1]
+        VIEW RECORD     [2]
+        EDIT RECORD     [3]
+        DELETE RECORD   [4]
+        EXIT            [5]
+
+        ENTER YOUR CHOICE:   

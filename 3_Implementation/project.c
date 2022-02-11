@@ -23,12 +23,7 @@ int main()
     int ch;
     char filename[15];
 
-    printf("\n\n\t***********************************\n");
-
-    printf("\t*PASSWORD PROTECTED PERSONAL DIARY*\n");
-
-    printf("\t***********************************");
-
+  
     while(1)
 
     {
