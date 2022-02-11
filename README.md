@@ -1,5 +1,6 @@
 * [ ] M1_projectGoal_-APP
 c project personal Diary Management System
+https://api.codiga.io/project/30999/score/svg
 1_Requirements:
 Personal Diary Management System
 Personal Diary or simples we says notepad.Since our past period we use note the persoal information in the personal diary but now we can use our application to note the personal  sceret in the our application we can acess the information by enterning the date and duration of the message.
