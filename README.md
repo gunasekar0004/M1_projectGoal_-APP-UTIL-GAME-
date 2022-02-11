@@ -8,12 +8,12 @@ High Level Requirments
  -user add personal message by entering the date and time
  -user can view their message and can add and edit their record
  Low level Requirements
- -User want know their date and time to edit and view and delete the record
+ User want know their date and time to edit and view and delete the record
 3_Implementation
-  -code Implemented 
+  code Implemented 
 4_Test Plan and output 
-  -sample Input and output
+  sample Input and output
 5_Repot 
-  -Details of the projects
+  Details of the projects
 6_Video
- -video of the projects
+ video of the projects
