@@ -1,6 +1,6 @@
 * [ ] M1_projectGoal_-APP
 c project personal Diary Management System
-#instrument-example ![check-code-coverage](https://api.codiga.io/project/30999/score/svg)
+ [check-code-coverage](https://api.codiga.io/project/30999/score/svg)
 
 
 
